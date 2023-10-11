@@ -31,4 +31,5 @@ const IssueSummary = ({ open, inProgress, closed }: Props) => {
   );
 };
 
+export const dynamic = "force-dynamic";
 export default IssueSummary;

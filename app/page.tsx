@@ -30,3 +30,5 @@ export const metadata: Metadata = {
   title: "Issue Tracker - Dashboard",
   description: "Dashboard for issue tracker",
 };
+
+export const dynamic = "force-dynamic";
